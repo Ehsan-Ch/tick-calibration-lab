@@ -1,0 +1,20 @@
+{
+  "symbol": "ETHUSDT",
+  "start": "2024-01-01",
+  "days": 14,
+  "bar_seconds": 10,
+  "horizon_seconds": 60,
+  "threshold_bps": 3.0,
+  "seed": 42,
+  "bootstrap_replicates": 300,
+  "bootstrap_block_rows": 60,
+  "folds": [
+    {"id":"F1","train_end":4,"select":5,"calibrate":6,"test":[7]},
+    {"id":"F2","train_end":7,"select":8,"calibrate":9,"test":[10]},
+    {"id":"F3","train_end":10,"select":11,"calibrate":12,"test":[13,14]}
+  ],
+  "linear_alphas": [0.0001,0.001],
+  "boosted_leaves": [7,15],
+  "linear_epochs": 6,
+  "boosted_iterations": 100
+}

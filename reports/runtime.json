@@ -1,0 +1,108 @@
+{
+  "total_seconds": 53.16353699998581,
+  "measurements": [
+    {
+      "fold": "F1",
+      "model": "linear",
+      "parameter": 0.0001,
+      "fit_and_select_seconds": 0.15176390000851825
+    },
+    {
+      "fold": "F1",
+      "model": "linear",
+      "parameter": 0.001,
+      "fit_and_select_seconds": 0.14090190001297742
+    },
+    {
+      "fold": "F1",
+      "model": "linear",
+      "batch_1024_mean_ms": 0.8297199994558468
+    },
+    {
+      "fold": "F1",
+      "model": "boosted",
+      "parameter": 7,
+      "fit_and_select_seconds": 2.5913243000104558
+    },
+    {
+      "fold": "F1",
+      "model": "boosted",
+      "parameter": 15,
+      "fit_and_select_seconds": 1.063450699992245
+    },
+    {
+      "fold": "F1",
+      "model": "boosted",
+      "batch_1024_mean_ms": 15.342069999314845
+    },
+    {
+      "fold": "F2",
+      "model": "linear",
+      "parameter": 0.0001,
+      "fit_and_select_seconds": 0.24579429998993874
+    },
+    {
+      "fold": "F2",
+      "model": "linear",
+      "parameter": 0.001,
+      "fit_and_select_seconds": 0.2360538000066299
+    },
+    {
+      "fold": "F2",
+      "model": "linear",
+      "batch_1024_mean_ms": 0.8619599975645542
+    },
+    {
+      "fold": "F2",
+      "model": "boosted",
+      "parameter": 7,
+      "fit_and_select_seconds": 1.3044034999911673
+    },
+    {
+      "fold": "F2",
+      "model": "boosted",
+      "parameter": 15,
+      "fit_and_select_seconds": 1.5884053999907337
+    },
+    {
+      "fold": "F2",
+      "model": "boosted",
+      "batch_1024_mean_ms": 13.735350000206381
+    },
+    {
+      "fold": "F3",
+      "model": "linear",
+      "parameter": 0.0001,
+      "fit_and_select_seconds": 0.3496741999988444
+    },
+    {
+      "fold": "F3",
+      "model": "linear",
+      "parameter": 0.001,
+      "fit_and_select_seconds": 0.3501276000170037
+    },
+    {
+      "fold": "F3",
+      "model": "linear",
+      "batch_1024_mean_ms": 1.1195800005225465
+    },
+    {
+      "fold": "F3",
+      "model": "boosted",
+      "parameter": 7,
+      "fit_and_select_seconds": 2.038968199980445
+    },
+    {
+      "fold": "F3",
+      "model": "boosted",
+      "parameter": 15,
+      "fit_and_select_seconds": 2.1545340000011493
+    },
+    {
+      "fold": "F3",
+      "model": "boosted",
+      "batch_1024_mean_ms": 13.942620001034811
+    }
+  ],
+  "note": "Local single-thread wall-clock timings; not exchange latency, not controlled hardware comparisons."
+}

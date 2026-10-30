@@ -1,0 +1,100 @@
+[
+  {
+    "date": "2024-01-01",
+    "url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-01.zip",
+    "checksum_url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-01.zip.CHECKSUM",
+    "sha256": "b6c61ccd2a06c461da996e5f636206231a3a39e0d2faa4e7cbfcf8aec72da888",
+    "bytes": 5762302
+  },
+  {
+    "date": "2024-01-02",
+    "url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-02.zip",
+    "checksum_url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-02.zip.CHECKSUM",
+    "sha256": "61d2a38b40aed84b379007aaa93c433224cdc23ff6d00df568e55c9d0b2d92be",
+    "bytes": 10701363
+  },
+  {
+    "date": "2024-01-03",
+    "url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-03.zip",
+    "checksum_url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-03.zip.CHECKSUM",
+    "sha256": "9bec26b7e8e6d473ec5cd395a06f4648e87b5131b08411ce71dff0406ee049f4",
+    "bytes": 14452015
+  },
+  {
+    "date": "2024-01-04",
+    "url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-04.zip",
+    "checksum_url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-04.zip.CHECKSUM",
+    "sha256": "88b1dfea6c6c21de43f4183dba03999c367a0be473dc6f26ff6a84793a00a177",
+    "bytes": 8740406
+  },
+  {
+    "date": "2024-01-05",
+    "url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-05.zip",
+    "checksum_url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-05.zip.CHECKSUM",
+    "sha256": "3bdf62e688ab8db6877f8da2054c05228d3f6aa2b29181c1a41b85aa200fc573",
+    "bytes": 8452672
+  },
+  {
+    "date": "2024-01-06",
+    "url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-06.zip",
+    "checksum_url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-06.zip.CHECKSUM",
+    "sha256": "07d446363067fcd559d8a402d4826dafd3472ba3839357ec3327f1578d8cfaed",
+    "bytes": 5137299
+  },
+  {
+    "date": "2024-01-07",
+    "url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-07.zip",
+    "checksum_url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-07.zip.CHECKSUM",
+    "sha256": "8cfa4567fff936a1a5bf116d2dc77485644a97599ecf71a069cbe37d3499755a",
+    "bytes": 5685486
+  },
+  {
+    "date": "2024-01-08",
+    "url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-08.zip",
+    "checksum_url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-08.zip.CHECKSUM",
+    "sha256": "0f4149e4acd79a1989af59b37090847c3ee27fb0278594c8012bbec652a43f55",
+    "bytes": 11301146
+  },
+  {
+    "date": "2024-01-09",
+    "url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-09.zip",
+    "checksum_url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-09.zip.CHECKSUM",
+    "sha256": "93e02bdc6517d885d3ce5e425a987c6f5a4526840eaeb9dd31e39ba8f9e1451a",
+    "bytes": 12471280
+  },
+  {
+    "date": "2024-01-10",
+    "url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-10.zip",
+    "checksum_url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-10.zip.CHECKSUM",
+    "sha256": "0721e3175f2f9f913a2670ee75de6f682291cae3e0e1b55bf7714aa6c2892042",
+    "bytes": 20823528
+  },
+  {
+    "date": "2024-01-11",
+    "url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-11.zip",
+    "checksum_url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-11.zip.CHECKSUM",
+    "sha256": "aefc017bf2fcf55f066f7f7648611f6a41d0322529e0a9a88b02df41eb377970",
+    "bytes": 18085057
+  },
+  {
+    "date": "2024-01-12",
+    "url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-12.zip",
+    "checksum_url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-12.zip.CHECKSUM",
+    "sha256": "e30c3d9759dd190b55cf6349d685bf6fc10c956c70ea55c557e11fcb13f6a93e",
+    "bytes": 19661772
+  },
+  {
+    "date": "2024-01-13",
+    "url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-13.zip",
+    "checksum_url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-13.zip.CHECKSUM",
+    "sha256": "4dab29b7a44b4f0f7acf9be0062ba85435b3e5c3ceaf3a39df8f23c0355c358e",
+    "bytes": 9873438
+  },
+  {
+    "date": "2024-01-14",
+    "url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-14.zip",
+    "checksum_url": "https://data.binance.vision/data/spot/daily/aggTrades/ETHUSDT/ETHUSDT-aggTrades-2024-01-14.zip.CHECKSUM",
+    "sha256": "4dff7e1efba77f7c811c54986aef429dbd29214f0845b4a8934452a427c807db",
+    "bytes": 7990593
+  }
+]
